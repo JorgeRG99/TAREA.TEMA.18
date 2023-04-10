@@ -91,9 +91,7 @@ function App() {
                 <h3 className="card-title reveal">BIO FARM</h3>
                 <div className="card-separator reveal"></div>
                 <p className="reveal">
-                  Creemos que la naturaleza tiene su propia belleza y, por lo
-                  tanto, cultivamos palmeras sin podar para mantener su aspecto
-                  auténtico y natural.
+                  CONTENIDO VACIO
                 </p>
               </div>
             </div>
