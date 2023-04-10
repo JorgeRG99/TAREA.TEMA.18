@@ -174,40 +174,6 @@ function App() {
             />
           </div>
         </section>
-        <section className="sec">
-          <div className="image-box-width">
-            <img
-              src={aboutsecimg}
-              className="sec-image"
-              title="About section palm tree"
-              alt="Palm tree about section image"
-              width="100%"
-              height="auto"
-            />
-          </div>
-          <div className="sec-box image-box-width">
-            <h2 className="sec-title reveal">NOSOTROS</h2>
-            <p className="reveal">
-              Bienvenidos a Campo Palmer, una empresa líder en la producción de
-              palmeras ecológicas de alta calidad. Estamos comprometidos con la
-              creación de productos de primera categoría, cultivados de manera
-              responsable y sostenible en armonía con el medio ambiente.
-            </p>
-            <p className="reveal">
-              Desde nuestros inicios, hemos trabajado arduamente para
-              establecernos como un referente en la industria agrícola,
-              destacando por la calidad de nuestros productos y el respeto que
-              tenemos por la naturaleza. Utilizamos técnicas agrícolas
-              innovadoras y sostenibles para asegurarnos de que nuestras
-              palmeras crezcan en un ambiente saludable y natural.
-            </p>
-            <p className="reveal">
-              Gracias a nuestra dedicación y compromiso con la calidad y el
-              medio ambiente, hemos logrado ganar la confianza y lealtad de
-              nuestros clientes en todo el mundo.
-            </p>
-          </div>
-        </section>
       </main>
     </div>
   );
