@@ -108,9 +108,7 @@ function App() {
                 <h3 className="card-title reveal">GROWTH</h3>
                 <div className="card-separator reveal"></div>
                 <p className="reveal">
-                  Criadas respetando el medio ambiente en una finca con
-                  certificación ecológica, dentro del parque natural Cabo de
-                  Gata-Níjar.
+                  CONTENIDO VACIO
                 </p>
               </div>
             </div>
