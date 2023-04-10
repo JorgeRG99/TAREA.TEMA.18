@@ -209,11 +209,9 @@ function App() {
           </div>
         </section>
       </main>
-      <footer className="contact-sec">
-        <h2></h2>
-        <h2></h2>
-        <h2></h2>
-      </footer>
+<<<<<<< HEAD
+=======
+>>>>>>> Features2
     </div>
   );
 }
