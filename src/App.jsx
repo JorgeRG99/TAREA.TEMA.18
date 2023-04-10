@@ -60,7 +60,7 @@ function App() {
             />
           </div>
           <div className="page-title-box">
-            <h1>Titulo</h1>
+            <h1>Titulo Página</h1>
             <h1>-</h1>
             <h1>Campo de Níjar</h1>
           </div>
