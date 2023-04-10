@@ -209,9 +209,6 @@ function App() {
           </div>
         </section>
       </main>
-<<<<<<< HEAD
-=======
->>>>>>> Features2
     </div>
   );
 }
